@@ -26,4 +26,4 @@ function calculateTemp() {
        document.getElementById("resultContainer").innerHTML = "= " + result + "°Celsius";
     }
     
- }
+}
